@@ -1,0 +1,9 @@
+export { default as robot } from "./robot.png";
+export { default as tech } from "./tech.jpg";
+export { default as shape } from "./shape1.png";
+export { default as service1 } from "./service1.png";
+export { default as service2 } from "./service2.png";
+export { default as service3 } from "./service3.png";
+export { default as hadi } from "./hadi.jpg";
+export { default as hamid } from "./hamid.png";
+export { default as project1 } from "./project1.png";
